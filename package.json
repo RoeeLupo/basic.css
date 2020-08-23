@@ -1,0 +1,20 @@
+{
+  "name": "@mrsheldon/basic.css",
+  "version": "0.0.2-alpha",
+  "homepage": "https://github.com/RoeeLupo/basic.css/",
+  "author": {
+    "name": "Roee Lupo",
+    "email": "roee@discord.boats",
+    "url": "https://roeelupo.com"
+  },
+  "description": "A CSS framework I am trying to write",
+  "main": "all.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoeeLupo/basic.css/.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roeelupo/basic.css/issues"
+  }
+}
